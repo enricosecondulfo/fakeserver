@@ -5,8 +5,5 @@
     { "id": 3, "name": "Maria", "surname": "Truvolo" },
 	{ "id": 4, "name": "Antonio", "surname": "Cacciuoppoli" },
 	{ "id": 5, "name": "Enrico", "surname": "Secondulfo" }
-  ],
-  "login": [
-    { "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c" }
   ]
 }
